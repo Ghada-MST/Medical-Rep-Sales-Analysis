@@ -40,7 +40,6 @@ Fields: Year, Rep, Cluster, Group, Account, Product, Product Code, Price, Quanti
 
 🧮 Profit & Quantity KPIs
 
-📍 Chiller vs Dry Sales
 
 ## 🧠 Analysis Highlights
 - Significant gap identified between actual sales and targets in certain clusters.
@@ -48,8 +47,6 @@ Fields: Year, Rep, Cluster, Group, Account, Product, Product Code, Price, Quanti
 - CO-OP and SEMI clusters underperformed in specific months.
 
 - Certain reps exceeded their targets consistently across the year.
-
-- Chiller products showed stronger performance in chain accounts.
 
 - Noted issues with product availability and consistency in underperforming areas.
 
@@ -61,3 +58,12 @@ Fields: Year, Rep, Cluster, Group, Account, Product, Product Code, Price, Quanti
 - Reallocate inventory stock based on past month trends.
 
 - Optimize focus on top 10 profitable products across high-yielding accounts.
+
+
+## 📸 Preview
+
+
+
+---
+
+
