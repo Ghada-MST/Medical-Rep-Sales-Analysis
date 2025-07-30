@@ -40,6 +40,18 @@ Fields: Year, Rep, Cluster, Group, Account, Product, Product Code, Price, Quanti
 
 🧮 Profit & Quantity KPIs
 
+## 🧮 Key Measures Created
+- Total Actual Sales
+
+- Target Sales
+
+- Target Achievement %
+
+- Profit = Sales – Cost
+
+- Profitability %
+
+- Sales and Profit by Month, Cluster, and Product
 
 ## 🧠 Analysis Highlights
 - Significant gap identified between actual sales and targets in certain clusters.
