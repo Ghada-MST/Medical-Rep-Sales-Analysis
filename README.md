@@ -62,6 +62,24 @@ Fields: Year, Rep, Cluster, Group, Account, Product, Product Code, Price, Quanti
 
 ## 📸 Preview
 
+<img width="1184" height="797" alt="Image" src="https://github.com/user-attachments/assets/05538494-f254-455d-bd70-126274bbe8e2" />
+
+<img width="1422" height="804" alt="Image" src="https://github.com/user-attachments/assets/46c1b612-e5b1-4388-aae4-cb80a90185f2" />
+
+<img width="1431" height="797" alt="Image" src="https://github.com/user-attachments/assets/fcb523c8-0089-4a43-8660-bb8b2a70d1ce" />
+
+<img width="1426" height="795" alt="Image" src="https://github.com/user-attachments/assets/12708902-ade7-4166-a46d-4fd9623d91f1" />
+
+<img width="1427" height="797" alt="Image" src="https://github.com/user-attachments/assets/945b5216-8e93-4439-8afe-066a3fe0115c" />
+
+<img width="1428" height="795" alt="Image" src="https://github.com/user-attachments/assets/894994e2-8abb-4f9a-ab2f-27d4ac9affbb" />
+
+<img width="1425" height="786" alt="Image" src="https://github.com/user-attachments/assets/c446cf27-3707-4718-9f61-ea13366c09c2" />
+
+
+
+
+
 
 
 ---
